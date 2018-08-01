@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/kafka-custom-partitioner_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	CustomPart$$anonfun$partition$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/CustomPart$$anonfun$partition$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomPart.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/CustomPart.class[0m
+[0m[[0mdebug[0m] [0m	CustomPart$$anonfun$partition$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/CustomPart$$anonfun$partition$1.class[0m
+[0m[[0mdebug[0m] [0m	Producerr$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/Producerr$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	Producerr.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/Producerr.class[0m
+[0m[[0mdebug[0m] [0m	CustomPart$$anonfun$partition$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/CustomPart$$anonfun$partition$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	Producerr$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/anil/Documents/Eclipseworkspace/KafkaProducer/target/scala-2.11/classes/Producerr$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
